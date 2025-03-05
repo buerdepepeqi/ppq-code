@@ -13,6 +13,7 @@
 #include <map>
 #include <memory>
 #include <functional>
+#include <mutex>
 
 using namespace std;
 class MemoryPool {
@@ -72,7 +73,6 @@ int main()
     void* ptr3 = pool.allocate();
     pool.deallocate(ptr2);
     pool.deallocate(ptr3);
-    return 0;
     return 0;
 }
 
