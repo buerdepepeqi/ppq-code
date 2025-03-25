@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -rdynamic CMakeFiles/demo.dir/multi_thread_demo.cpp.o -o demo 

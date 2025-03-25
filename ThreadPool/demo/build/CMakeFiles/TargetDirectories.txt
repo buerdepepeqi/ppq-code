@@ -1,0 +1,4 @@
+/home/ppq/ppq-code/ThreadPool/demo/build/CMakeFiles/demo.dir
+/home/ppq/ppq-code/ThreadPool/demo/build/CMakeFiles/demo1.dir
+/home/ppq/ppq-code/ThreadPool/demo/build/CMakeFiles/edit_cache.dir
+/home/ppq/ppq-code/ThreadPool/demo/build/CMakeFiles/rebuild_cache.dir
